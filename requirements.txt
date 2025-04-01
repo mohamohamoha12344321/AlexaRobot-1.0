@@ -74,13 +74,13 @@ secureme #encrypt
 aiofiles
 aiohttp>=2.2.5
 wget
-pymongo==3.11.0
+pymongo==4.6.3
 dnspython
 psutil==5.8.0
 gpytranslate
 envparse
-flask==2.1.1
-werkzeug==2.0.3
+flask==2.2.5
+werkzeug==3.0.6
 flag
 yt_dlp
 pendulum
